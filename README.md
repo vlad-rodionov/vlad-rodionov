@@ -1,5 +1,5 @@
 ## Hi, I'm Vlad Rodionov 👋
-I'm a machine learning researcher who is deeply interested in building recommendation systems and gathering best practices of machine learning in production.
+I'm a data scientist who is deeply interested in building recommendation systems and collecting best practices of machine learning in production.
 
 
 <!--
