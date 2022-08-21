@@ -1,4 +1,6 @@
-### Hi, I'm Vlad Rodionov 👋
+## Hi, I'm Vlad Rodionov 👋
+I'm a machine learning researcher who is deeply interested in building recommendation systems and gathering best practices of machine learning in production.
+
 
 <!--
 **vlad-rodionov/vlad-rodionov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
