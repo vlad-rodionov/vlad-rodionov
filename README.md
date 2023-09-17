@@ -1,8 +1,6 @@
 ## Hi, I'm Vlad Rodionov 👋
-I'm a data scientist who is deeply interested in building recommendation systems and collecting best practices of machine learning in production.
 
 ## Find me:
-- [VK](https://vk.com/id730817593)
 - [Telegram](https://t.me/rodionov_v)
 
 <!--
